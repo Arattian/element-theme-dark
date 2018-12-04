@@ -1,0 +1,17 @@
+{
+  "name": "element-theme-dark",
+  "version": "1.0.1",
+  "description": "Element UI dark theme",
+  "author": "Misak Poghosyan",
+  "license": "MIT",
+  "main": "lib/index.css",
+  "repository": "Arattian/element-theme-dark",
+  "keywords": [
+    "element-ui",
+    "npm",
+    "package",
+    "dark",
+    "theme",
+    "aratta"
+  ]
+}
