@@ -15744,7 +15744,7 @@ html, body {
     position: absolute;
     z-index: -1; }
   .el-table--striped .el-table__body tr.el-table__row--striped td {
-    background: #FAFAFA; }
+    background: #1f3647; }
   .el-table--striped .el-table__body tr.el-table__row--striped.current-row td {
     background-color: #1f3647; }
   .el-table__body tr.hover-row > td, .el-table__body tr.hover-row.current-row > td, .el-table__body tr.hover-row.el-table__row--striped > td, .el-table__body tr.hover-row.el-table__row--striped.current-row > td {
